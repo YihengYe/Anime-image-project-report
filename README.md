@@ -1,1 +1,2 @@
 # Anime-image-project-report
+This is the repository storing the report for project "Anime Image Feature Capturing and Image Generation". Please check the "anime_image_report.pdf" to read the whole report. Section 4 "Experiments" contains the results of this project.
